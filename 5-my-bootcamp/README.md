@@ -13,7 +13,6 @@ appearance in the array
 ```js
 "#1 Marwin";
 "#2 Namir";
-
 ```
 
 ## Resources
